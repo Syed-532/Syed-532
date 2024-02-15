@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Sadiq Pasha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/ur](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="center" alt="coding" width="400" src="https://www.google.com/ur](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-532&label=Profile%20views&color=0e75b6&style=flat" alt="syed-532" /> </p>
 
